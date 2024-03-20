@@ -1,4 +1,6 @@
 # 💫 About Me:
+<img src="https://img.freepik.com/premium-vector/banner-background-full-color-blue-gradation-geometric-design_586360-740.jpg?w=996" alt="Banner Image" style="width: 100%; height: 200px;">
+
 <h1 align="center">Hi 👋, I'm Akash Borade</h1>
 <h3 align="center">A passionate Data/Business analyst from India</h3>
 
